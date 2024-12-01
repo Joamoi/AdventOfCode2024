@@ -1,0 +1,14 @@
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\bin\Debug\net8.0\Day1.exe
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\bin\Debug\net8.0\Day1.deps.json
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\bin\Debug\net8.0\Day1.dll
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\bin\Debug\net8.0\Day1.pdb
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.AssemblyInfoInputs.cache
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.AssemblyInfo.cs
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.csproj.CoreCompileInputs.cache
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.dll
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\refint\Day1.dll
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.pdb
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
+C:\Programs\Visual_Studio\AdventOfCode2024\Day1\obj\Debug\net8.0\ref\Day1.dll
